@@ -1,0 +1,5 @@
+setting switch, vlan access and trunking
+daftar ip gateway router (int0/0, enc)
+IP DHCP pool di route
+RIPv2
+firewall 2 server
